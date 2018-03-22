@@ -1,0 +1,7 @@
+program example;
+var
+a:           integer;
+begin
+x:=3+3.5+3.5e4;
+end
+3a:integer;
